@@ -36,7 +36,7 @@ For smaller-scale experiments, datasets like **CIFAR-10**, **STL-10**, or your o
 
 An example folder structure is provided in `example_data_folder/` illustrating the expected `.tar` or `.tar.gz` archive format.
 
-See the `get_data` method in [`data_aug/contrastive_data.py`](simclr-small-dataset/data_aug/contrastive_data.py) for details on dataset integration.
+See the `get_data` method in [`data_aug/contrastive_data.py`](data_aug/contrastive_data.py) for details on dataset integration.
 
 
 ## Usage
@@ -65,4 +65,4 @@ A full requirements file is provided but the lightweight summary is:
 
 ## Acknowledgments
 
-Thanks to the creators of [SimCLR] (https://arxiv.org/abs/2002.05709) and the [PyTorch]community (https://pytorch.org/).
+Thanks to the creators of [SimCLR](https://arxiv.org/abs/2002.05709) and the [PyTorch](https://pytorch.org/) community.
